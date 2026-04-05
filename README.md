@@ -106,10 +106,11 @@ Through this project, you can understand:
 
 This project is created for **educational and learning purposes only**.
 
-
+---
 
 ## 🙏 Acknowledgement
 
-This project is inspired by the beauty of nature and developed as part of a **college web development project** to enhance practical knowledge of frontend technologies.
+This project is inspired by the beauty of nature and developed as part of a **Learning web development project** to enhance practical knowledge of frontend technologies.
 
+---
 
