@@ -106,16 +106,10 @@ Through this project, you can understand:
 
 This project is created for **educational and learning purposes only**.
 
----
+
 
 ## 🙏 Acknowledgement
 
 This project is inspired by the beauty of nature and developed as part of a **college web development project** to enhance practical knowledge of frontend technologies.
 
----
 
-If you want, I can also:
-
-* Add **badges (GitHub, stars, license, etc.)**
-* Create a **LinkedIn post for this project**
-* Or make this README **ATS-friendly for portfolio use** 
