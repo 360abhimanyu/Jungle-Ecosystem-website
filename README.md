@@ -112,5 +112,4 @@ This project is created for **educational and learning purposes only**.
 
 This project is inspired by the beauty of nature and developed as part of a **Learning web development project** to enhance practical knowledge of frontend technologies.
 
----
 
